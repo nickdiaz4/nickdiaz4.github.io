@@ -1,0 +1,42 @@
+.App {
+  background-color: #000000;
+  min-height: 100vh;
+}
+
+#banner {
+  color: #e09d82;
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2.5vmin);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#card {
+  width: 68%;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon{
+  height: 40px;
+  pointer-events: none;
+}
+.ferrisWheel {
+  right: 50%;
+  top: 70%;
+  height: 130%;
+  position: fixed;
+  overflow: hidden;
+}
+
+.imageParent{
+  padding: 50% 0;
+}
+
