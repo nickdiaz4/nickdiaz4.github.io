@@ -24,10 +24,20 @@
   justify-content: center;
 }
 
+a{
+  color: #da7249;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #49acda;
+}
+
 .icon{
-  height: 40px;
+  height: 35px;
   pointer-events: none;
 }
+
 .ferrisWheel {
   right: 50%;
   top: 70%;
