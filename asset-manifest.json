@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4673832a.css",
-    "main.js": "/static/js/main.0d5b7728.js",
+    "main.css": "/static/css/main.466b1005.css",
+    "main.js": "/static/js/main.9f500ffc.js",
     "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
     "static/media/Matplotlib.svg": "/static/media/Matplotlib.80c8bebb1dce68dc1258.svg",
     "static/media/Apache Maven.svg": "/static/media/Apache Maven.2a39d66d6f0ef434755a.svg",
@@ -31,12 +31,12 @@
     "static/media/Material UI.svg": "/static/media/Material UI.87264df237ee700ba78b.svg",
     "static/media/NPM.svg": "/static/media/NPM.87689eab730642c86d2b.svg",
     "static/media/Visual Studio.svg": "/static/media/Visual Studio.1f9992b2ae3455e3a103.svg",
-    "main.4673832a.css.map": "/static/css/main.4673832a.css.map",
-    "main.0d5b7728.js.map": "/static/js/main.0d5b7728.js.map",
+    "main.466b1005.css.map": "/static/css/main.466b1005.css.map",
+    "main.9f500ffc.js.map": "/static/js/main.9f500ffc.js.map",
     "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4673832a.css",
-    "static/js/main.0d5b7728.js"
+    "static/css/main.466b1005.css",
+    "static/js/main.9f500ffc.js"
   ]
 }
