@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.466b1005.css",
-    "main.js": "/static/js/main.9f500ffc.js",
+    "main.js": "/static/js/main.04e40caf.js",
     "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
     "static/media/Matplotlib.svg": "/static/media/Matplotlib.80c8bebb1dce68dc1258.svg",
     "static/media/Apache Maven.svg": "/static/media/Apache Maven.2a39d66d6f0ef434755a.svg",
+    "static/media/CompTIA Security.svg": "/static/media/CompTIA Security.4a54eddffe86cc7e3ae2.svg",
     "static/media/Docker.svg": "/static/media/Docker.1d41320cb0101dbbc6fe.svg",
     "static/media/AWS.svg": "/static/media/AWS.b6a223a18ab9f53bbbf7.svg",
     "static/media/Postman.svg": "/static/media/Postman.4f13d94619e491aa4cfa.svg",
@@ -32,11 +33,11 @@
     "static/media/NPM.svg": "/static/media/NPM.87689eab730642c86d2b.svg",
     "static/media/Visual Studio.svg": "/static/media/Visual Studio.1f9992b2ae3455e3a103.svg",
     "main.466b1005.css.map": "/static/css/main.466b1005.css.map",
-    "main.9f500ffc.js.map": "/static/js/main.9f500ffc.js.map",
+    "main.04e40caf.js.map": "/static/js/main.04e40caf.js.map",
     "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.466b1005.css",
-    "static/js/main.9f500ffc.js"
+    "static/js/main.04e40caf.js"
   ]
 }
