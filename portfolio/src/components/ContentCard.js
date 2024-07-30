@@ -41,7 +41,7 @@ export default class ContentCard extends Component {
                     <h2>Hi, I'm Nick Diaz!</h2>
                     <Typography level="body-sm" fontFamily={"Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif"}>
                         I graduated from Winthrop University in 2023 with a B.S. in Computer Science.
-                        I hold the following certifications: <a href='https://www.credly.com/badges/5fc2088a-1de2-4e8e-b962-8d1ca98a099d/linked_in_profile'>AWS Certified Cloud Practitioner Certification</a>, <a href='https://www.credly.com/badges/fce1b49e-dd57-44f5-b8a2-f240d5e1c440/linked_in_profile'>IBM Cybersecurity Analyst Professional Certification</a>, and <a href='https://www.credly.com/badges/ff8a04e2-8ea5-4cd1-bfb4-f10f7d74ae7a/public_url'>CompTIA Security+</a>.
+                        I hold the following certifications: <a href='/certs/CompTIA Security+ ce certificate.pdf' target='_blank'>CompTIA Security+</a>, <a href='/certs/AWS Certified Cloud Practitioner certificate.pdf' target='_blank'>AWS Certified Cloud Practitioner</a>, and <a href='https://www.credly.com/badges/fce1b49e-dd57-44f5-b8a2-f240d5e1c440/linked_in_profile'>IBM Cybersecurity Analyst Professional Certification</a>.
                         <br/>My current tech stack includes Java, C#, C++, Python, HTML, CSS, JavaScript, & SQL.<br/>
                         I'm also knowledgeable of the following libraries & frameworks: 
                         Spring, Javalin, JDBC, JUnit, AWS, & (some) React. <br/>
